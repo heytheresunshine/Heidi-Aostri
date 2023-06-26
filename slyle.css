@@ -1,0 +1,46 @@
+body {
+
+    background-color: #F7F5EB ;
+  }
+
+img {
+    border-radius: 10px;
+  }
+
+.inter {
+    font-family: 'Inter', sans-serif;
+  }
+  
+.lustria {
+  font-family: 'Lustria', serif;
+}
+
+.aboutme {
+  background-color: #A5C9CA !important;
+}
+
+.btn-primary {
+  background-color: #395B64;
+  border-color: #2C3333;
+}
+
+.btn-primary:hover {
+  background-color: #2C3333;
+}
+
+.feature-icon-small {
+  background-color: #395B64 !important;
+}
+
+#contact {
+  background-color: #395B64;
+}
+
+.chat {
+  background-color: #A5C9CA !important;
+}
+
+.white {
+  color: white !important;
+}
+
