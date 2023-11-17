@@ -280,3 +280,17 @@ body {
         font-size: 18px;
     }
 }
+
+@media print {
+    body {
+      zoom: 60%; /* Adjust the zoom value as per your needs */
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    
+    @page {
+        size: auto;
+        margin: 0;
+    }
+  }
